@@ -4,7 +4,7 @@ const get = (arr, index, defaultValue = null) => {
     }
   
     return arr[index];
-  };
+};
 
   const cities = ['moscow', 'london', 'berlin', 'porto', '', null, undefined];
 
